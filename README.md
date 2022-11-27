@@ -30,7 +30,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 prework-study-guide/assets/image
 
-![alt text](/home/osboxes/Documents/bootcamp/prework-study-guide/assets/image/screenshot.png)
+![alt text](prework-study-guide/assets/image/screenshot.png)
 
 ## Credits
 
