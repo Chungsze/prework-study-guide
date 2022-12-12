@@ -13,10 +13,16 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
+- [Description](#description)
+- [Table of Contents (Optional)](#table-of-contents-optional)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
 
 ## Installation
 
@@ -30,7 +36,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 prework-study-guide/assets/image
 
-![alt text](prework-study-guide/assets/image/screenshot.png)
+![alt text](assets/images/../image/screenshot.png)
 
 ## Credits
 
